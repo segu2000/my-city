@@ -1,0 +1,3 @@
+[submodule "myBuilding"]
+	path = myBuilding
+	url = https://github.com/segu2000/myBuilding.git
